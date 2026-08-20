@@ -19,6 +19,7 @@ This 7-day intensive bootcamp is structured to provide a balance between theoret
 
 * `/Day01_to_Day07`: Folders containing the daily lecture code snippets and examples.
 * `/Labs`: Daily practical assignments and exercises to be completed during the lab sessions.
+* `/Sketches`: Daily sketches and notes during the lab sessions.
 
 ## 📚 Training Materials
 
@@ -38,5 +39,5 @@ Before starting the labs, ensure you have the following installed:
 1. **Clone the repo** to your local machine:
 
    ```bash
-   git clone https://github.com/abdelmonemanwr/CSharp-Course.git
+   git clone https://github.com/abdelmonemanwr/CSharp-Course-ST-Cairo-26.git
    ```
