@@ -4,7 +4,7 @@ Welcome to the official repository for the **C# & Object-Oriented Programming (O
 
 ## 📌 Course Overview
 
-This 7-day intensive bootcamp is structured to provide a balance between theoretical concepts (3 hours/day) and practical implementation (3 hours/day). By the end of this training, you will be equipped with the foundational skills needed to write clean, robust, and scalable backend applications using .NET.
+This 6-day intensive bootcamp is structured to provide a balance between theoretical concepts (3 hours/day) and practical implementation (3 hours/day). By the end of this training, you will be equipped with the foundational skills needed to write clean, robust, and scalable backend applications using .NET.
 
 ## 📅 Daily Agenda
 
@@ -17,7 +17,7 @@ This 7-day intensive bootcamp is structured to provide a balance between theoret
 
 ## 💻 Repository Structure
 
-* `/Day01_to_Day07`: Folders containing the daily lecture code snippets and examples.
+* `/Day1_to_Day6`: Folders containing the daily lecture code snippets and examples.
 * `/Labs`: Daily practical assignments and exercises to be completed during the lab sessions.
 * `/Sketches`: Daily sketches and notes during the lab sessions.
 
